@@ -1,4 +1,4 @@
-﻿# WTF-Capstone-Project
+﻿<!-- # WTF-Capstone-Project
 
 Offline-first React learning platform built with Vite.
 
@@ -64,4 +64,4 @@ public/               # static PWA assets
 ```
 
 ## Repository
-Remote: `https://github.com/Kele228610/WTF-Capstone-Project.git`
+Remote: `https://github.com/Kele228610/WTF-Capstone-Project.git` -->
